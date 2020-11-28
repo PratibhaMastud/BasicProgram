@@ -1,0 +1,12 @@
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.AssemblyInfoInputs.cache
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.AssemblyInfo.cs
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\bin\Debug\netcoreapp3.1\BasicPrograms.exe
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\bin\Debug\netcoreapp3.1\BasicPrograms.deps.json
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\bin\Debug\netcoreapp3.1\BasicPrograms.runtimeconfig.json
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\bin\Debug\netcoreapp3.1\BasicPrograms.runtimeconfig.dev.json
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\bin\Debug\netcoreapp3.1\BasicPrograms.dll
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\bin\Debug\netcoreapp3.1\BasicPrograms.pdb
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.dll
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.pdb
+C:\Users\prattii\source\DayOneDotNet\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.genruntimeconfig.cache
