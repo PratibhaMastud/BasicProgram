@@ -10,3 +10,9 @@ C:\Users\prattii\source\DayOneDotNet\BasicProgram\bin\Debug\netcoreapp3.1\BasicP
 C:\Users\prattii\source\DayOneDotNet\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.dll
 C:\Users\prattii\source\DayOneDotNet\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.pdb
 C:\Users\prattii\source\DayOneDotNet\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.genruntimeconfig.cache
+C:\Users\prattii\Desktop\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.csprojAssemblyReference.cache
+C:\Users\prattii\Desktop\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.AssemblyInfoInputs.cache
+C:\Users\prattii\Desktop\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.AssemblyInfo.cs
+C:\Users\prattii\Desktop\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\prattii\Desktop\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.dll
+C:\Users\prattii\Desktop\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicPrograms.pdb

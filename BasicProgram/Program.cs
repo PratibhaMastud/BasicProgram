@@ -13,7 +13,6 @@ namespace DayOne
 
                 int choice = Convert.ToInt32(Console.ReadLine());
 
-
                 switch (choice)
                 {
                     case 1:
@@ -34,9 +33,7 @@ namespace DayOne
                 }
             
            
-         }
-  
-       
+         }  
         
     }
 }
